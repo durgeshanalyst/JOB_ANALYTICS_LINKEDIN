@@ -1,6 +1,10 @@
 # Job Analytics by LinkedIn
- <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXJqthvtPft5usLKCSSIc9x1Rq8CbMRFI5Hf2fm9-QAvFmSblwVQG4KR0dQXD-tUvg6LLoZY1ejsFKEK-N7xagZPYirgmqFzv0PtxBN1op6ETG0dFfHU0RI-fDomJ8k3hlPTtBBWjXFMaYc0fc7GrdA42Baxt0r-Q3UMUtvpKI6o_JuX-SmXclst7MYXg/s1200/Create%20a%20professional%20banner%201280600%20for%20LinkedIn%20projects%20that%20showcases%20job%20analytics.%20Use.png"
-
+ <img
+      border="0"
+      data-original-height="628"
+      data-original-width="1200"
+      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXJqthvtPft5usLKCSSIc9x1Rq8CbMRFI5Hf2fm9-QAvFmSblwVQG4KR0dQXD-tUvg6LLoZY1ejsFKEK-N7xagZPYirgmqFzv0PtxBN1op6ETG0dFfHU0RI-fDomJ8k3hlPTtBBWjXFMaYc0fc7GrdA42Baxt0r-Q3UMUtvpKI6o_JuX-SmXclst7MYXg/s16000/Create%20a%20professional%20banner%201280600%20for%20LinkedIn%20projects%20that%20showcases%20job%20analytics.%20Use.png"
+  />
 ## Introduction
 
 The "Job Analytics by LinkedIn" project is aimed at collecting job listings, company information, and HR details from LinkedIn's official website. This data is then processed and stored in CSV files for easy access and analysis. The project utilizes various tools and technologies, including Python, NumPy, pandas, BeautifulSoup, and Selenium.
